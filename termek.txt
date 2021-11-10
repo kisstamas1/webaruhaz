@@ -1,0 +1,351 @@
+1
+AMD Ryzen 7 3700X 8-Core 3.6GHz AM4
+processzor
+93310
+01.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-7-3700x-8-core-3-6ghz-am4-p475218921/
+
+2
+AMD Ryzen 5 5600X 6-Core 3.7GHz AM4
+processzor
+99999
+02.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-5-5600x-6-core-3-7ghz-am4-p602155698/
+
+3
+AMD Ryzen 5 3600 6-Core 3.6GHz AM4
+processzor
+99240
+03.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-5-3600-6-core-3-6ghz-am4-p475218504/
+
+4
+AMD Ryzen 7 5800X 8-Core 3.8GHz AM4 processzor
+processzor
+138170
+04.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-7-5800x-8-core-3-8ghz-am4-p602155692/
+
+5
+Intel Core i5-10400F 6-Core 2.9GHz LGA1200
+processzor
+57880
+05.jpg
+https://www.arukereso.hu/processzor-c3139/intel/core-i5-10400f-6-core-2-9ghz-lga1200-p558582354/
+
+6
+AMD Ryzen 9 5900X 12-Core 3.7GHz AM4
+processzor
+179220
+06.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-9-5900x-12-core-3-7ghz-am4-p602155701/
+
+7
+AMD Ryzen 5 1600 6-Core 3.2GHz AM4
+processzor
+43600
+07.jpg
+https://www.arukereso.hu/processzor-c3139/amd/ryzen-5-1600-6-core-3-2ghz-am4-p363376809/
+
+8
+Intel Core i3-10105F 4-Core 3.7GHz LGA1200
+processzor
+29630
+08.jpg
+https://www.arukereso.hu/processzor-c3139/intel/core-i3-10105f-4-core-3-7ghz-lga1200-p651527289/
+
+9
+Intel Core i9-9900K 8-Core 3.6GHz LGA1151
+processzor
+115880
+09.jpg
+https://www.arukereso.hu/processzor-c3139/intel/core-i9-9900k-8-core-3-6ghz-lga1151-p435093405/
+
+10
+Intel Xeon Platinum 8280 28-Core 2.7GHz LGA3647
+processzor
+3830083
+10.jpg
+https://www.arukereso.hu/processzor-c3139/intel/xeon-platinum-8280-28-core-2-7ghz-lga3647-p511008549/
+
+11
+ZOTAC GeForce GTX 1070 Ti AMP Extreme 8GB GDDR5
+videokartya
+172550
+11.jpg
+https://www.arukereso.hu/videokartya-c3142/zotac/geforce-gtx-1070-ti-amp-extreme-8gb-gddr5-256bit-zt-p10710b-10p-p390600171/
+
+12
+EVGA GeForce RTX 3060 XC GAMING 12GB
+videokartya
+334990
+12.jgp
+https://www.arukereso.hu/videokartya-c3142/evga/geforce-rtx-3060-xc-gaming-12gb-gddr6-12g-p5-3657-kr-p643505220/
+
+13
+GIGABYTE GeForce RTX 3070 8GB GDDR6 256bit
+Videokárta
+496395
+13.jpg
+https://www.arukereso.hu/videokartya-c3142/gigabyte/geforce-rtx-3070-8gb-gddr6-256bit-gv-n3070gaming-oc-8gd-p606305766/
+
+14
+ASUS GeForce RTX 3070 Ti OC 8GB GDDR6X 256bit
+videokartya
+515935
+14.jpg
+https://www.arukereso.hu/videokartya-c3142/asus/geforce-rtx-3070-ti-oc-8gb-gddr6x-256bit-tuf-rtx3070ti-o8g-gaming-p681327102/
+
+15
+ASUS GeForce RTX 3080 10GB GDDR6X 320bit
+videokartya
+599990
+15.jpg
+https://www.arukereso.hu/videokartya-c3142/asus/geforce-rtx-3080-10gb-gddr6x-320bit-rog-strix-rtx3080-o10g-v2-gaming-p682838829/
+
+16
+ASUS GeForce RTX 3080 Ti 12GB OC GDDR6X 384bit
+videokartya
+828080
+16.jpg
+https://www.arukereso.hu/videokartya-c3142/asus/geforce-rtx-3080-ti-12gb-oc-gddr6x-384bit-tuf-rtx3080ti-o12g-gaming-p675809820/
+
+17
+EVGA GeForce RTX 3090 FTW3 ULTRA GAMING 24GB GDDR6X
+videokartya
+1299990
+17.jpg
+https://www.arukereso.hu/videokartya-c3142/evga/geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6x-24g-p5-3987-kr-p594610254/
+
+18
+XFX Radeon RX 580 GTS XXX Edition 8GB GDDR5 256bit
+videokartya
+263969
+18.jpg
+https://www.arukereso.hu/videokartya-c3142/xfx/radeon-rx-580-gts-xxx-edition-8gb-gddr5-256bit-rx-580p8dfd6-p366453253/
+
+19
+PowerColor Radeon RX 6700XT Red Devil 12GB OC DDR6
+videokartya
+384180
+19.jpg
+https://www.arukereso.hu/videokartya-c3142/powercolor/radeon-rx-6700xt-red-devil-12gb-oc-ddr6-axrx-6700xt-12gbd6-3dhe-oc-p648785958/
+
+20
+SAPPHIRE Radeon NITRO+ RX 6700 XT 12GB GDDR6
+videokartya
+389990
+20.jpg
+https://www.arukereso.hu/videokartya-c3142/sapphire/radeon-nitro-rx-6700-xt-12gb-gddr6-11306-01-20g-p649791750/
+
+21
+Intel Celeron D 440 2GHz LGA775
+processzor
+999
+21.jpg
+https://www.arukereso.hu/processzor-c3139/intel/celeron-d-440-2ghz-lga775-p16293263/
+
+22
+AFOX GeForce GT 220 1GB DDR3 (AF220-1024D3L2)
+videokartya
+13970
+22.jpg
+https://www.arukereso.hu/videokartya-c3142/afox/geforce-gt-220-1gb-ddr3-af220-1024d3l2-p648397563/
+
+23
+PNY Quadro RTX 8000 48GB GDDR6 384bit (VCQRTX8000-PB)
+videokartya
+2517320
+23.jpg
+https://www.arukereso.hu/videokartya-c3142/pny/quadro-rtx-8000-48gb-gddr6-384bit-vcqrtx8000-pb-p523379997/
+
+24
+MSI B450 TOMAHAWK MAX
+alaplap
+27590
+24.jpg
+https://www.arukereso.hu/alaplap-c3128/msi/b450-tomahawk-max-p507690846/
+
+25
+MSI MAG B550 Tomahawk
+alaplap
+48220
+25.jpg
+https://www.arukereso.hu/alaplap-c3128/msi/mag-b550-tomahawk-p569229474/
+
+26
+ASUS TUF GAMING B460M-PLUS
+alaplap
+32520
+26.jpg
+https://www.arukereso.hu/alaplap-c3128/asus/tuf-gaming-b460m-plus-p567898629/
+
+27
+ASUS ROG Crosshair VIII Hero (WI-FI)
+alaplap
+158110
+27.jpg
+https://www.arukereso.hu/alaplap-c3128/asus/rog-crosshair-viii-hero-wi-fi-p483413502/
+
+28
+ASUS PRIME H410M-K
+alaplap
+23040
+28.jpg
+https://www.arukereso.hu/alaplap-c3128/asus/prime-h410m-k-p561948975/
+
+29
+ASUS ROG STRIX B550-F GAMING
+alaplap
+62180
+29.jpg
+https://www.arukereso.hu/alaplap-c3128/asus/rog-strix-b550-f-gaming-p569216646/
+
+30
+MSI H310M PRO-VDH PLUS
+alaplap
+14090
+30.jpg
+https://www.arukereso.hu/alaplap-c3128/msi/h310m-pro-vdh-plus-p435613461/
+
+31
+GIGABYTE GA-A320M-H
+alaplap
+19000
+31.jpg
+https://www.arukereso.hu/alaplap-c3128/gigabyte/ga-a320m-h-p432693933/
+
+32
+ASRock AM1B-M
+alaplap
+9881
+32.jpg
+https://www.arukereso.hu/alaplap-c3128/asrock/am1b-m-p223753166/
+
+33
+ASUS ROG Maximus XIII Extreme Glacial
+alaplap
+519400
+33.jpg
+https://www.arukereso.hu/alaplap-c3128/asus/rog-maximus-xiii-extreme-glacial-p655411278/
+
+34
+GIGABYTE Z590 AORUS XTREME WATERFORCE
+alaplap
+708950
+34.jpg
+https://www.arukereso.hu/alaplap-c3128/gigabyte/z590-aorus-xtreme-waterforce-p669077331/
+
+35
+Kingston HyperX FURY 16GB (2x8GB) DDR4 3200MHz
+ram
+32840
+35.jpg
+https://www.arukereso.hu/memoria-modul-c3577/kingston/hyperx-fury-16gb-2x8gb-ddr4-3200mhz-hx432c16fb3k2-16-p496047027/
+
+36
+G.SKILL Aegis 16GB (2x8GB) DDR4 3200MHz
+ram
+28270
+36.jpg
+https://www.arukereso.hu/memoria-modul-c3577/g-skill/aegis-16gb-2x8gb-ddr4-3200mhz-f4-3200c16d-16gis-p505099300/
+
+37
+GeIL SUPER LUCE RGB 16GB (2x8GB) DDR4 4133MHz
+ram
+46790
+37.jpg
+https://www.arukereso.hu/memoria-modul-c3577/geil/super-luce-rgb-16gb-2x8gb-ddr4-4133mhz-gls416gb4133c19dc-p454366644/
+
+38
+CSX 512MB DDR 400MHz
+ram
+1890
+38.jpg
+https://www.arukereso.hu/memoria-modul-c3577/csx/512mb-ddr-400mhz-csxod1so400648512-p71915578/
+
+39
+G.SKILL Trident Z Royal Elite 128GB (8x16GB) DDR4 3600MHz
+ram
+780680
+39.jpg
+https://www.arukereso.hu/memoria-modul-c3577/g-skill/trident-z-royal-elite-128gb-8x16gb-ddr4-3600mhz-f4-3600c14q2-128gtes-p700738998/
+
+40
+ARCTIC Freezer 34 eSports DUO
+huto
+14820
+40.jpg
+https://www.arukereso.hu/szamitogep-huto-c3094/arctic/freezer-34-esports-duo-acfre00060a-61a-62a-63a-74a-75a-p448954533/
+
+41
+Fractal Design Celsius+ S24 Prisma
+huto
+60160
+41.jpg
+https://www.arukereso.hu/szamitogep-huto-c3094/fractal-design/celsius-s24-prisma-fd-w-2-s2402-p551034468/
+
+42
+Y S Tech FD123010LB
+huto
+231
+42.jpg
+https://www.arukereso.hu/szamitogep-huto-c3094/y-s-tech/fd123010lb-p364962275/
+
+43
+Koolance ERM-3K3UA
+huto
+739362
+43.jpg
+https://www.arukereso.hu/szamitogep-huto-c3094/koolance/erm-3k3ua-p364962281/
+
+44
+Samsung Odyssey G5 C27G55TQWR
+monitor
+101600
+44.jpg
+https://www.arukereso.hu/monitor-c3126/samsung/odyssey-g5-c27g55tqwr-p645867567/
+
+45
+LG 25UM58-P
+monitor
+49899
+45.jpg
+https://www.arukereso.hu/monitor-c3126/lg/25um58-p-p330220093/
+
+46
+ASUS VP249QGR
+monitor
+59990
+46.jpg
+https://www.arukereso.hu/monitor-c3126/asus/vp249qgr-p527248077/
+
+47
+EIZO CG3145
+monitor
+9200000
+47.jpg
+https://www.arukereso.hu/monitor-c3126/eizo/cg3145-p474948954/
+
+48
+Provision-ISR PR-IPS7/B
+monitor
+24670
+48.jpg
+https://www.arukereso.hu/monitor-c3126/provision-isr/pr-ips7-b-p545011281/
+
+49
+Samsung Odyssey G5 C34G55TWWR
+monitor
+160720
+49.jpg
+https://www.arukereso.hu/monitor-c3126/samsung/odyssey-g5-c34g55twwr-p643913379/#termek-leiras
+
+50
+17" HP Pavilion MX70 CRT
+monitor
+1000
+50.jpg
+https://www.jofogas.hu/budapest/17__HP_Pavilion_MX70_CRT_monitor_121852757.htm
+
+
